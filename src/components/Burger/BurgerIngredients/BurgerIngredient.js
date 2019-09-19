@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import classes from './BurgerIngredient.module.css';
-import BurgerBuilder from '../../../containers/BurgerBuilder/BurgerBuilder';
 
 const BurgerIngredient = (props) => {
     let ingredient = null;
